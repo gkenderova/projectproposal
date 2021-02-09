@@ -1,6 +1,7 @@
 img {
-    position: relative;
     max-width: 400px;
+    display: block;
+    margin: auto;
 }
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
