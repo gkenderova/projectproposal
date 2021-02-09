@@ -8,10 +8,15 @@ body {
     margin: auto;
 }
 
+h1, h3 {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 10px;
+}
+
 .description {
     width: 960px;
 }
 
-h1, h3 {
-    text-align: center;
-}
