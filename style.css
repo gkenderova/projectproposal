@@ -5,3 +5,7 @@ img {
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+div {
+    width: 500px;
+}
