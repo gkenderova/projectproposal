@@ -19,6 +19,8 @@ h1 {
 .column {
     float: left;
     width: 50%;
+    top: 50%;
+    left: 50%;
 }
 
 /* Clear floats after the columns */
