@@ -16,7 +16,13 @@ h1 {
     padding-top: 10px;
 }
 
+.column {
+    float: left;
+    width: 50%;
+}
+
 .description {
     width: 960px;
 }
+
 
